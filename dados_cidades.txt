@@ -1,0 +1,10 @@
+1,Recife
+2,Belo Horizonte
+3,Salvador
+4,Chapecó
+5,Curitiba
+6,Fortaleza
+7,Porto Alegre
+8,Rio de janeiro
+9,Santos
+10,São Paulo

@@ -1,0 +1,31 @@
+﻿0-2, Atletico Mineiro
+1-2, Cruzeiro
+2-2, America Mineiro
+3-8, Botafogo
+4-8,Flamengo
+
+5-8,Fluminense
+
+6-8,Vasco
+
+7-
+5,Atlético Paranaense
+8-5,Paraná
+
+9-7,Grêmio
+
+10-7,Internacional
+
+11-10,Palmeiras
+
+12-10,Corinthians
+13-10,São Paulo9,Santos
+
+14-9,Santos
+15-6,Ceará
+16-6,Bahia
+17-1,Sport
+
+18-4,Chapecoense
+
+19-3,Vitória
